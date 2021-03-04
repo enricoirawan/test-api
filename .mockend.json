@@ -1,0 +1,19 @@
+{
+    "result": {
+        "onboardData": [
+            {
+                "title": "title 1 from api",
+                "description": "description 1 from api",
+                "icon": "",
+                "background": "assets/images/bitmap/placeholder.webp"
+            },
+            {
+                "title": "title 2 from api",
+                "description": "description 2 from api",
+                "icon": "",
+                "background": "assets/images/bitmap/placeholder.webp"
+            }
+        ],
+        "status": 200
+    }
+}
